@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Fırat Şeker"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/caml_lab_photo.HEIC"
   bio    : "PhD student studying the changes in human psychology across cultures and historical periods."
   links:
     - label: "Twitter"
@@ -72,18 +72,30 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com/citations?user=h-pia2AAAAAJ&hl=en&oi=ao"
+    - label: "OSF"
+      icon: "fab fa-fw fa-osf"
+      url: "https://osf.io/user/497e8"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-ORCID"
+      url: "https://orcid.org/0000-0001-9667-9270"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/firat_sekr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-scholar"
+      url: "https://scholar.google.com/citations?user=h-pia2AAAAAJ&hl=en&oi=ao"
+    - label: "OSF"
+      icon: "fab fa-fw fa-osf"
+      url: "https://osf.io/user/497e8"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-ORCID"
+      url: "https://orcid.org/0000-0001-9667-9270"
 
 defaults:
   # _posts
