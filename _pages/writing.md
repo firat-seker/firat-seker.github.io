@@ -6,10 +6,10 @@ layout: splash
 
 ## About My Writing
 
-My non-academic (and more fun) writing includes both fiction and science communication. I am interested in writing novels, short stories, and comics.
+My non-academic (and more fun) writing includes both fiction and science communication. I am interested in writing novels, short stories, and comics mainly in fantasy and sci-fi settings.
 
 I currently have popular science articles published on **Medium**, where I communicate scientific advancements on topics that interest me. 
-These articles are currently available only in **Turkish**. In the future, I aim to write new articles in English.
+These articles are currently available only in **Turkish**. In the future, I aim to write new Medium articles in English.
 
 -> [My Medium page](https://medium.com/@_Euphrates)
 
