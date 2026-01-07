@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv/
-layout: single
+layout: splash
 ---
 
 _Last updated: January 2026_
