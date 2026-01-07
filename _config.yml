@@ -17,9 +17,7 @@ title: Fırat Şeker
 subtitle: Ph.D. Student in Psychology
 email: fseker@umass.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Fırat Şeker -- Ph.D. student in psychology -- University of Massachusetts Amherst
 twitter_username: firat_sekr
 github_username: FiratSeker9
 minimal_mistakes_skin: mint
@@ -55,7 +53,7 @@ plugins:
 
 author:
   name   : "Fırat Şeker"
-  avatar : "/assets/images/caml_lab_photo.HEIC"
+  avatar : "/assets/images/profile photo.jpeg"
   bio    : "PhD student studying the changes in human psychology across cultures and historical periods."
   links:
     - label: "Twitter"
