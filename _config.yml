@@ -59,6 +59,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+academicons: true
+
 author:
   name   : "Fırat Şeker"
   avatar : "/assets/images/profile photo.jpeg"
@@ -67,6 +69,9 @@ author:
     - label: "Twitter/X"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/firat_sekr"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: "https://www.linkedin.com/in/firat-seker-m-a-280667389/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -85,6 +90,9 @@ footer:
     - label: "Twitter/X"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/firat_sekr"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: "https://www.linkedin.com/in/firat-seker-m-a-280667389/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
