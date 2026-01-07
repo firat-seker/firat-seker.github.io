@@ -1,6 +1,11 @@
 ---
 layout: splash
 title: "Fırat Şeker"
+header:
+  overlay_image: /assets/images/banner.jpg
+  actions:
+    - label: "Curriculum Vitae"
+      url: /cv/
 ---
 
 ## About Me
