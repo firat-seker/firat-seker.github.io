@@ -59,6 +59,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
+
 author:
   name   : "Fırat Şeker"
   avatar : "/assets/images/profile photo.jpeg"
