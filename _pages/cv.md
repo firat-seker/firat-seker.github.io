@@ -7,6 +7,6 @@ layout: splash
 _Last updated: January 2026_
 
 <iframe src="/assets/Firat_CV.pdf"
-        width="140%"
+        width="90%"
         height="900px">
 </iframe>
