@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fırat Şeker -- Ph.D. student in psychology -- University of Massachusetts Amherst
 twitter_username: firat_sekr
 github_username: FiratSeker9
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: sunrise
 search: false
 
 # Build settings
