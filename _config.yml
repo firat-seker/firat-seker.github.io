@@ -59,8 +59,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-academicons: true
-
 author:
   name   : "Fırat Şeker"
   avatar : "/assets/images/profile photo.jpeg"
