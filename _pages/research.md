@@ -11,13 +11,13 @@ I use various methods, from computational to experimentation, to answer my resea
 
 ## Research Concentration
 
-### Ecological and Institutional Determinants of Morality
+### Ecological and Institutional Influences on Morality
 
 Ecologies and institutions are two macro-factors that shape human psychology. I am interested in how ecological factors, (e.g., pathogen prevalence, population density, resource scarcity) and institutions (e.g., historical exposure to institutionalized cultural rules) influence moral values and behaviors. 
 
-### Religion, Morality, and Cooperation
+### Evolution of Religion, Morality, and Cooperation
 
-It is argued that religion played an important role in the emergence of large scale societies and that religious belief fosters cooperation. I investigate the link between religion and cooperation from a historical psychological lens, studying whether it was stable throughout history or not.
+Morality is indistinguishable from religion for a lot of people, perhaps because of the role religions played in sustaining large scale cooperation. I investigate the link between religion and cooperation from a historical psychological lens, studying whether the relationship between religion and moral behavior was stable throughout history or if religions fostered different types of moralities in response to environmental effects.
 
 ### Cognitive Style and Morality
 
