@@ -7,9 +7,9 @@ classes: wide
 
 My research mainly revolves around morality and cooperation. I explore **why** individuals endorse different moral values and how these values change over historical periods and cultural contexts.
 More specifically, I'm interested in how macro-level factors, such as ecology and institutions, influence moral values and behaviors. Religion is another central interest of mine, as it plays a key role in how moral values are shaped and manifested.
-I use various methods, from computational to experimentation, to answer my research questions.
+I use various methods, from computational to experimentation, to answer my research questions. See my [CV](/cv/) for my publications and in progress papers. 
 
-## Research Areas
+## Research Concentration
 
 ### Ecological and Institutional Determinants of Morality
 
