@@ -10,7 +10,7 @@ header:
 
 ## About Me
 
-<img src="/assets/images/profile.jpg"
+<img src="/assets/images/profile phot.jpeg"
      alt="Fırat Şeker"
      style="width:280px; float:right; margin-left:20px; border-radius:8px;" />
 
