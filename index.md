@@ -2,7 +2,7 @@
 layout: splash
 title: "Fırat Şeker"
 header:
-  overlay_image: /assets/images/banner2.jpg
+  overlay_image: /assets/images/banner3.jpg
   actions:
     - label: "Contact"
       url: /contact/
