@@ -6,7 +6,7 @@ layout: single
 
 I'm always open to connect! Feel free to reach out to me by email:
 
-📧 **fseker@umass.edu**
+📧 **fseker[at]umass.edu**
 
 You can also find me on the following platforms:
 
