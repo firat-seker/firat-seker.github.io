@@ -5,15 +5,15 @@ layout: single
 classes: wide
 ---
 
-My research mainly revolves around the evolution of morality and cooperation. I explore **why** individuals endorse different moral values and how these values change over historical periods and cultural contexts.
-More specifically, I'm interested in how ecologies, cultures, and institutions influence cooperation and morality. Among cultural and institutional forces, religion stands out as a special interest of mine, given its key role in shaping moral values and who we cooperate with in different parts of the world.
+My research mainly revolves around the evolution of morality and cooperation. I explore **why** individuals endorse different moral values and how these values change over historical periods and cultural contexts from a cultural evolutionary perspective.
+More specifically, I'm interested in how ecologies, cultural practices, and institutions act together to influence cooperation and morality. Religion stands out as a special interest of mine, given its key role in shaping moral values and who we cooperate with in different parts of the world.
 I use various methods, from computational to experimental, to answer my research questions. See my [CV](/cv/) for my publications and in progress papers. 
 
 ## Research Concentration
 
-### Historical Forces Shaping Morality and Cooperation
+### Historical Forces Shaping Cooperation
 
-I investigate how ecologies, cultures, and institutions shape human psychology. More specifically, how ecological factors, (e.g., pathogen prevalence, population density, resource scarcity) and institutions (e.g., historical exposure to institutionalized cultural rules) influence moral values and behaviors and how these influences vary throughout history and around the globe. 
+I investigate how ecologies, cultural practices, and institutions shape human psychology. More specifically, I am interested in how social behavior and norms change in response to selective pressures, why some social groups create successful societies and others do not, and how distinct patterns of cultural practices emerge throughout history and around the globe. 
 
 ### Evolution of Religion, Morality, and Cooperation
 
@@ -21,5 +21,5 @@ Morality is indistinguishable from religion for a lot of people, perhaps because
 
 ### Cognitive Style and Morality
 
-Cognitive style reveals a lot about how people process information and react to the world around them. I'm interested in how individuals who rely more on deeper thinking differ from those who mainly rely on intuition in moral decision-making. This allows me to determine which cooperative norms and moral behaviors are intuitive in different cultural contexts. 
+Cognitive style reveals a lot about how people process information and react to the world around them. I'm interested in how individuals who rely more on deeper thinking differ from those who mainly rely on intuition in moral decision-making. The differences between intuitive and reflective thinking can shed light on which cooperative norms and moral behaviors are intuitive in different cultural contexts. 
 
